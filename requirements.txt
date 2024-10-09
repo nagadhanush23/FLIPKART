@@ -8,4 +8,4 @@ python-dotenv
 pandas
 flask
 -e .
-##conda activate C:\Users\nagad\OneDrive\Desktop\FLIPKART\venv
+

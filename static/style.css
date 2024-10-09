@@ -226,6 +226,8 @@ body, html {
 	height: 100%;
 	margin: 0;
 	background: linear-gradient(to right, #2c3e50, #bdc3c7);
+	background-image: url("https://images.unsplash.com/photo-1568605114967-8130f3a36994");
+    background-size: cover;
 }
 
 .chat {
